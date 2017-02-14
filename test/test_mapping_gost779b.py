@@ -19,8 +19,8 @@ SOURCE_RU = (
     u"Широкая электрификация южных губерний даст мощный толчок "
     u"подъёму сельского хозяйства.")
 TRANSLIT_RU = (
-    "Shirokaya e`lektrifikaciya yuzhny`x gubernij dast moshhny`j tolchok "
-    "pod``yomu sel`skogo xozyajstva.")
+    "Shirokaya eʹlektrifikaciya yuzhnyʹx gubernij dast moshhnyʹj tolchok "
+    "podʹʹyomu selʹskogo xozyajstva.")
 
 # Ukrainian
 SOURCE_UA = (
